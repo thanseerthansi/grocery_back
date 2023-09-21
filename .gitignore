@@ -1,0 +1,5 @@
+/.vscode
+/groceryenv
+/groceryBackend/db.sqlite3
+/groceryBackend/.vscode
+/groceryBackend/media
